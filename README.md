@@ -11,4 +11,4 @@ Quick demo:
 python train_net.py --config-file configs/COCO-Detection/faster_rcnn_R_50_AugFPN_1x.yaml
 ```
 
-Or modify other config files based on ```faster_rCNn_r_50_augfpn_1x.yaml```.
+Or modify other config files based on ```faster_rcnn_R_50_AugFPN_1x.yaml```.
